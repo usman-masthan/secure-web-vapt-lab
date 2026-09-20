@@ -1,0 +1,7 @@
+# Core dependencies for secure-web-vapt-lab automation & testing
+# Built using Python 3.11+ Standard Library (zero mandatory external dependencies)
+
+# Optional dependencies for enhanced HTTP sessions and advanced reporting:
+requests>=2.31.0
+pytest>=8.0.0
+
